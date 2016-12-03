@@ -1,9 +1,7 @@
 # Brackets Language Log
-Log file syntax highlighting in Brackets
-
-# How it works
-- Add the Log language to the language selector
-- Highlight log synthax
+[Brackets Text Editor](http://brackets.io) extension which enables log file highlighting.
+- Add **Log language** to the language selector
+- Log file syntax highlighting
 
 #Screenshots
 ![alt tag](https://raw.githubusercontent.com/AgamlaRage/brackets-language-log/master/screenshots/screen.gif)
