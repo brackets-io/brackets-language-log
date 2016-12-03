@@ -4,7 +4,7 @@
     "description": "Adds syntax highlighting support for Log files.",
     "homepage": "",
     "version": "1.0.0",
-    "author": "Julien Chaput",
+    "author": "Julha | Julien Chaput",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.42.0"
