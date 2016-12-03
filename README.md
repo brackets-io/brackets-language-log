@@ -1,5 +1,5 @@
 # Brackets Language Log
-[Brackets Text Editor](http://brackets.io) extension which enables log file highlighting.
+Log file syntax highlighting in Brackets
 
 # How it works
 - Add the Log language to the language selector
