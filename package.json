@@ -1,12 +1,29 @@
 {
-    "name": "brackets-language-log",
-    "title": "Language Log",
-    "description": "Adds syntax highlighting support for Log files.",
-    "homepage": "https://github.com/AgamlaRage/brackets-language-log",
-    "version": "1.0.0",
-    "author": "Julha | Julien Chaput",
-    "license": "MIT",
-    "engines": {
-        "brackets": ">=0.42.0"
-    }
+  "name": "brackets-language-log",
+  "title": "Language Log",
+  "description": "Add syntax highlighting support for Log files.",
+  "homepage": "https://github.com/AgamlaRage/brackets-language-log",
+  "bugs": "https://github.com/AgamlaRage/brackets-language-log/issues",
+  "version": "1.0.0",
+  "author": "Julha | Julien Chaput",
+  "author": {
+    "name": "Julha | Julien Chaput",
+    "email": "chap.julien@gmail.com",
+    "url": "https://github.com/AgamlaRage"
+  },
+  "license": "MIT",
+  "keywords": [
+    "brackets-extension",
+    "log",
+    "language",
+    "highlight",
+    "synthax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgamlaRage/brackets-language-log.git"
+  },
+  "engines": {
+    "brackets": ">=0.42.0"
+  }
 }
