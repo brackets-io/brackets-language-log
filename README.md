@@ -21,5 +21,10 @@ I focused on wamp log files, but I also would like to handle any kind of log fil
 - **filter panel**, filtering search box with options (level: warning, notice, ...etc)
 
 #Release history
-##0.1.0
+##1.0.1
+- fix typing error
+- had synthax highlighting ``char into suqare brace`` (alternative regexp date)
+- update screenshot
+
+##1.0.0
 - Initial commit
