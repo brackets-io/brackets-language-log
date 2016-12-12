@@ -5,7 +5,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/AgamlaRage/brackets-language-log/master/docs/screenshots/screen.gif)
 
-Here you can see the [Release history](http://brackets.io)
+Here you can see the [Release history](https://github.com/AgamlaRage/brackets-language-log/blob/master/docs/RELEASE.md)
 
 
 #Help
